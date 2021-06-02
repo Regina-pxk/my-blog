@@ -1,0 +1,14 @@
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\bin\Debug\netcoreapp3.1\MyBlog.IRespository.dll
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\bin\Debug\netcoreapp3.1\MyBlog.Model.dll
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\obj\Debug\netcoreapp3.1\MyBlog.Respository.AssemblyInfoInputs.cache
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\obj\Debug\netcoreapp3.1\MyBlog.Respository.AssemblyInfo.cs
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\bin\Debug\netcoreapp3.1\MyBlog.Respository.deps.json
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\bin\Debug\netcoreapp3.1\MyBlog.Respository.dll
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\bin\Debug\netcoreapp3.1\MyBlog.Respository.pdb
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\bin\Debug\netcoreapp3.1\MyBlog.IRespository.pdb
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\bin\Debug\netcoreapp3.1\MyBlog.Model.pdb
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\obj\Debug\netcoreapp3.1\MyBlog.Respository.csproj.CoreCompileInputs.cache
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\obj\Debug\netcoreapp3.1\MyBlog.Respository.csproj.CopyComplete
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\obj\Debug\netcoreapp3.1\MyBlog.Respository.dll
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\obj\Debug\netcoreapp3.1\MyBlog.Respository.pdb
+D:\Demo\MyBlog\MyBlog\MyBlog.Respository\obj\Debug\netcoreapp3.1\MyBlog.Respository.csproj.AssemblyReference.cache

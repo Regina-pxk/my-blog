@@ -1,0 +1,9 @@
+D:\Demo\MyBlog\MyBlog\MyBlog.Model\bin\Debug\netcoreapp3.1\MyBlog.Model.deps.json
+D:\Demo\MyBlog\MyBlog\MyBlog.Model\bin\Debug\netcoreapp3.1\MyBlog.Model.dll
+D:\Demo\MyBlog\MyBlog\MyBlog.Model\bin\Debug\netcoreapp3.1\MyBlog.Model.pdb
+D:\Demo\MyBlog\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.AssemblyInfoInputs.cache
+D:\Demo\MyBlog\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.AssemblyInfo.cs
+D:\Demo\MyBlog\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.csproj.CoreCompileInputs.cache
+D:\Demo\MyBlog\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.dll
+D:\Demo\MyBlog\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.pdb
+D:\Demo\MyBlog\MyBlog\MyBlog.Model\obj\Debug\netcoreapp3.1\MyBlog.Model.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Demo\MyBlog\MyBlog\IBaseRespository\bin\Debug\netcoreapp3.1\MyBlog.IRespository.deps.json
+D:\Demo\MyBlog\MyBlog\IBaseRespository\bin\Debug\netcoreapp3.1\MyBlog.IRespository.dll
+D:\Demo\MyBlog\MyBlog\IBaseRespository\bin\Debug\netcoreapp3.1\MyBlog.IRespository.pdb
+D:\Demo\MyBlog\MyBlog\IBaseRespository\bin\Debug\netcoreapp3.1\MyBlog.Model.dll
+D:\Demo\MyBlog\MyBlog\IBaseRespository\bin\Debug\netcoreapp3.1\MyBlog.Model.pdb
+D:\Demo\MyBlog\MyBlog\IBaseRespository\obj\Debug\netcoreapp3.1\MyBlog.IRespository.AssemblyInfoInputs.cache
+D:\Demo\MyBlog\MyBlog\IBaseRespository\obj\Debug\netcoreapp3.1\MyBlog.IRespository.AssemblyInfo.cs
+D:\Demo\MyBlog\MyBlog\IBaseRespository\obj\Debug\netcoreapp3.1\MyBlog.IRespository.csproj.CoreCompileInputs.cache
+D:\Demo\MyBlog\MyBlog\IBaseRespository\obj\Debug\netcoreapp3.1\MyBlog.IRespository.csproj.CopyComplete
+D:\Demo\MyBlog\MyBlog\IBaseRespository\obj\Debug\netcoreapp3.1\MyBlog.IRespository.dll
+D:\Demo\MyBlog\MyBlog\IBaseRespository\obj\Debug\netcoreapp3.1\MyBlog.IRespository.pdb
+D:\Demo\MyBlog\MyBlog\IBaseRespository\obj\Debug\netcoreapp3.1\MyBlog.IRespository.csproj.AssemblyReference.cache

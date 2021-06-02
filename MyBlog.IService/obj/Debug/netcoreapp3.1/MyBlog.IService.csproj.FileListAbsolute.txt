@@ -1,0 +1,12 @@
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.IService.deps.json
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.IService.dll
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.IService.pdb
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.Model.dll
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\bin\Debug\netcoreapp3.1\MyBlog.Model.pdb
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.AssemblyInfoInputs.cache
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.AssemblyInfo.cs
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.CoreCompileInputs.cache
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.CopyComplete
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.dll
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.pdb
+D:\Demo\MyBlog\MyBlog\MyBlog.IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.AssemblyReference.cache
